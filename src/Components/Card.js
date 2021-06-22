@@ -15,7 +15,7 @@ class Card extends Component {
                 <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">{this.props.title}</a>
                 <p className="mt-2 text-gray-500">{this.props.desc}</p>
                 <span className="mt-1 text-lg leading-tight font-medium text-black">RATING: {this.props.rate}</span>
-                <a href="#" className="ml-20 ... text-lg leading-tight font-medium text-black hover:underline ">Read More....</a>
+                <a href="#" className="ml-20 ... text-lg leading-tight font-medium text-black hover:underline ">Read More......</a>
               </div>
             </div>
           </div>
